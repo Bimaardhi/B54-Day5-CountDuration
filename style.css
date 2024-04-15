@@ -49,7 +49,16 @@ textarea {
     height: 100px;
 }
 
-.contact,
+.contact {
+    background-color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-top: 20px;
+}
+
+
 .submit {
     background-color: black;
     padding: 10px 20px;
